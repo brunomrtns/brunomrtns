@@ -45,24 +45,28 @@ Atualmente construindo duas plataformas:
 <div align="center">
 
 **Linguagens**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Infra & AI**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -81,14 +85,16 @@ Atualmente construindo duas plataformas:
 
 ### [Portfolio v2](https://github.com/brunomrtns/portfolio-v2)
 Portfolio pessoal com design premium, i18n em 6 idiomas, blog tecnico e painel admin.
-   
+
+`React` `Fastify` `TailwindCSS` `i18n`
 
 </td>
 <td width="50%" valign="top">
 
 ### [Trivestia Web](https://github.com/brunomrtns/trivestia-web)
 Web app da plataforma de educacao financeira — cursos, atividades interativas e progresso.
-  
+
+`React` `TypeScript` `TailwindCSS`
 
 </td>
 </tr>
@@ -97,14 +103,16 @@ Web app da plataforma de educacao financeira — cursos, atividades interativas 
 
 ### [TradeMaster API](https://github.com/brunomrtns/trademaster-api)
 Backend da Trivestia — auth, conteudo pedagogico, engine de correcao de atividades.
-  
+
+`NestJS` `Prisma` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
 ### [Call Service](https://github.com/brunomrtns/call-service)
 Microsservico VoIP com Asterisk ARI — chamadas, JWT, WebSocket e React Native.
-  
+
+`TypeScript` `Asterisk` `WebSocket`
 
 </td>
 </tr>
@@ -113,14 +121,16 @@ Microsservico VoIP com Asterisk ARI — chamadas, JWT, WebSocket e React Native.
 
 ### [Chat Platform](https://github.com/brunomrtns/chat-platform)
 Sistema de chat interno reutilizavel — monorepo Turborepo + NestJS + WebSocket.
-  
+
+`NestJS` `Turborepo` `WebSocket`
 
 </td>
 <td width="50%" valign="top">
 
 ### [Decisor Cambial](https://github.com/brunomrtns/decisor-cambial)
 Sistema de IA para decisao cambial BRL/USD com analise economica.
-  
+
+`Python` `AI` `Machine Learning`
 
 </td>
 </tr>
